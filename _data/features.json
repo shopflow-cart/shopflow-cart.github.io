@@ -1,7 +1,7 @@
 [
   {
-    "title": "Free Consultation",
-    "description": "New clients receive an obligation free consultation.",
+    "title": "Monitoraggio e sicurezza",
+    "description": "Monitoriamo e controlliamo i prodotti inseriti nei carrellini con telecamere intelligenti disposte sul carrellino.",
     "image": {
       "url": "images/features/noun_branding_1885335.svg",
       "width": 80,
@@ -9,8 +9,8 @@
     }
   },
   {
-    "title": "Certified Accountants",
-    "description": "All members of our team are certified accountants.",
+    "title": "Riconoscimento dei prodotti",
+    "description": "Riconosciamo i prodotti inseriti con tecniche di intelligenza artificiale per rendere tutto facile e veloce.",
     "image": {
       "url": "images/features/noun_The Process_1885341.svg",
       "width": 80,
@@ -18,8 +18,8 @@
     }
   },
   {
-    "title": "Tax Compliance",
-    "description": "We stay up to date on the latest changes to the tax code.",
+    "title": "Checkout automatizzato",
+    "description": "Con una corsia di checkout veloce dedicata, non dovrai preoccuparti di far aspettare in fila alla cassa i tuoi clienti.",
     "image": {
       "url": "images/features/noun_3d modeling_1885342.svg",
       "width": 80,
