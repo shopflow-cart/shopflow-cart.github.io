@@ -1,7 +1,7 @@
 ---
 title: ShopFlow - A small smart cart
 layout: home
-description: Jekyll Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+description: Progettiamo e commercializziamo carrelli intelligenti per un checkout rapido che migliora l'esperienza di acquisto dei vostri clienti per una migliore fidelizzazione della clientela.
 intro_image: "images/illustrations/shopflow.png"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
