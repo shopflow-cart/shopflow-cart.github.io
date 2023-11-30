@@ -9,4 +9,4 @@ intro_image_hide_on_mobile: false
 
 # Meet The Team
 
-Il nostro team è composto da esperti ingegneri e il nostro CEO è una marketing specialist. Abbiamo tutte le competenze in casa per la realizzazione del progetto.
+Il team è composto da due ingegneri esperti in machine laerning e progettazione hardware ed un business analyst, mentre il nostro CEO è una marketing specialist. Progettare e commercializzare carrelli intelligenti è nelle nostre corde!

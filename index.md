@@ -10,7 +10,7 @@ show_call_box: true
 
 # ShopFlow - A small smart cart
 
-Progettiamo e commercializziamo carrelli intelligenti per un checkout rapido che migliora l'esperienza di acquisto dei vostri clienti per una migliore fidelizzazione della clientela.
+Progettiamo e commercializziamo carrelli intelligenti per un checkout rapido che migliora l'esperienza di acquisto dei vostri clienti e vi permette di fidelizzare la vostra clientela.
 
 
-Guarda il nostro pitch [cliccando qui](https://www.canva.com/design/DAFxcarP0UI/vVYOACqJ8m7_iClo4lMEjA/edit?utm_content=DAFxcarP0UI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton).
+Scarica le slide del nostro pitch [cliccando qui](https://www.canva.com/design/DAFxcarP0UI/vVYOACqJ8m7_iClo4lMEjA/edit?utm_content=DAFxcarP0UI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton).

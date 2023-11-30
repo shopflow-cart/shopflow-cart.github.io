@@ -8,4 +8,4 @@ promoted: true
 weight: 3
 ---
 
-Responsabile hardware del nostro prodotto di punta.
+Responsabile hardware dei carrelli di ShopFlow.

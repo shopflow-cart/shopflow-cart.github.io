@@ -8,4 +8,4 @@ promoted: true
 weight: 2
 ---
 
-Responsabile dello sviluppo software e dell'organizzazione tecnica.
+Responsabile dello sviluppo software e dell'organizzazione tecnica di ShopFlow.
